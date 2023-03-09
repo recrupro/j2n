@@ -15,7 +15,7 @@ JavaScript
 PHP
 MySQL
 Comment utiliser le site
-Visitez le site à l'adresse suivante : http://www.job2next.com
+Visitez le site à l'adresse suivante : https://www.job2next.com
 Pour rechercher des emplois, utilisez le formulaire de recherche sur la page d'accueil.
 Pour créer un profil utilisateur, cliquez sur le lien "Créer un compte" dans la barre de navigation.
 Pour publier une offre d'emploi, connectez-vous à votre compte employeur et utilisez le formulaire de publication d'offre.
